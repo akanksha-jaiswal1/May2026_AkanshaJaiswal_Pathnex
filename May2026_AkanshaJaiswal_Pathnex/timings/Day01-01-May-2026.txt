@@ -1,0 +1,13 @@
+# Timing Files
+
+    # 2 hours - make a notes on Todays Roadmap Topic
+    # 1.5 hours - watched today's morning video
+    # 1 hours - Installed Visual and AWS
+    # 1 hours - Completed day 1 task.
+
+
+ # Tomorrow's Task
+    # 2 hours - Linux practice
+    # 2 hours - Class video and Second day task.
+    # 1 hour - English speaking
+
