@@ -1,0 +1,11 @@
+# Timing Files
+
+    # 1 hours - Revised some Linux commands
+    # 2 hours - Revised some Shell script commands
+    # 1 hours - Revised Github  
+    # 1 hours - Completed day-10 task.
+
+ # Tomorrow's Task
+    # 2 hours - Docker concept
+    # 2 hours - Class video and Eleventh day task.
+    # 1 hour - English speaking
