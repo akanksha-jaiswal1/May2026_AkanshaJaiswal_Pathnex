@@ -1,0 +1,10 @@
+# Timing Files
+
+    # 2 hours - watched today's morning video
+    # 3 hours - make a notes on Kubernetes concept
+    # 1 hours - Completed day-12 task.
+
+ # Tomorrow's Task
+    # 2 hours - Kubernetes concept
+    # 3 hours - Class video and 13th day task.
+    # 1 hour - English speaking
