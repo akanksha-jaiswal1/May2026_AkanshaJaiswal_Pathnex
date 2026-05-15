@@ -1,0 +1,10 @@
+# Timing Files
+
+    # 2 hours - watched today's morning video
+    # 3 hours - make a notes on Kubernetes concept and Practice it on Aws
+    # 1 hours - Completed day-15 task.
+
+ # Tomorrow's Task
+    # 2 hours - Kubernetes concept
+    # 3 hours - Class video and 16th day task.
+    # 1 hour - English speaking
